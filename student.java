@@ -1,4 +1,4 @@
-public class Main {
+public class student {
   static void myMethod() {
     System.out.println("I just got executed!");
   }
